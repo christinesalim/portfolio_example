@@ -10,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.11.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinesalim/portfolio_example.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/christinesalim/portfolio_example/issues"
+  },
+  "homepage": "https://github.com/christinesalim/portfolio_example#readme"
 }
